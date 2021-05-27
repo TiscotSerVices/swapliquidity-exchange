@@ -112,11 +112,11 @@ export default function Menu() {
       </StyledMenuButton>
       {chainId && open && (
         <MenuFlyout>
-          <MenuItem id="link" href="https://swapliquidity.info/">
+          <MenuItem id="link" href="https://safeeyes.io/">
             <PieChart size={14} />
             Analytics
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/justliquidity">
+          <MenuItem id="link" href="https://t.me/safeeyesofficial">
             <Send size={14} />
             Telegram
           </MenuItem>
