@@ -128,7 +128,7 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href={getEtherscanLink(chainId, '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F', 'address')}>
+          <MenuItem id="link" href={getEtherscanLink(chainId, '0xbd67d157502A23309Db761c41965600c2Ec788b2', 'address')}>
             <BookOpen size={14} />
             BscScan Contract
           </MenuItem>
